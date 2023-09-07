@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row1 {
+    background-image: url(./Images/hero-bg.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 640px;
+}
+.logo {
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    margin-left: 150px; 
+}
+.logo i {
+    font-size: 30px;
+    margin-right: 5px;
+    padding: 5px;
+}
+.ul li {
+    list-style: none;
+    align-items: center;
+}
+.ul li a {
+    color: white;
+    text-decoration: none;
+    align-items: center;
+}
+.ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+    margin-left: 10%;
+}
+.button1 {
+    background-color: rgb(245, 248, 251);
+    border-radius: 30px;
+    width: 170%;
+    font-size: 14px;
+    height: 40px;
+    border: none;
+    margin-left: 800%;
+}
+.button2 {
+    background-color: rgb(245, 248, 251);
+    border-radius: 30px;
+    width: 18%;
+    font-size: 19px;
+    height: 55px;
+    border: none;
+    margin-left: 31%;
+}
+.button3 {
+    background-color: rgb(23, 23, 23);
+    border-radius: 30px;
+    color: white;
+    width: 18%;
+    font-size: 19px;
+    height: 55px;
+    border: none;
+    margin-left: 1%;
+}
+.main-heading {
+    font-size: xx-large;
+    --font-headline: "ABC Ginto Nord","Noto Sans","Helvetica Neue","Helvetica","Arial","sans-serif";
+}
+.row2 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 645px;
+}
+.img2 {
+    height: 60vh;
+    margin: 100px ;
+    padding-left: 100px;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+.container h1 {
+    font-size: 300%;
+}
+.container2 {
+    display: flex;
+    align-items: center;
+    float: right;
+}
+.heading2 {
+    float: right;
+    margin-top: 13%;
+    font-size: x-large;
+}
+.img3 {
+    height: 60vh;
+    margin: 100px ;
+    padding-left: 100px;
+}
+.row3 {
+    background-color: rgb(242, 242, 242);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 645px;
+}    
+.row4 {
+    background-color: none;
+    height: 645px;
+}
+.container3 {
+    display: flex;
+    align-items: center;
+}
+.container3 h1 {
+    font-size: 200%;
+}
+.img4 {
+    height: 55vh;
+    margin: 86px ;
+    padding-left: 90px;
+    padding-bottom: 30px;
+}
+.heading4 {
+    display: flex;
+    margin-right: 20%;
+    font-size: large
+}
+.row5 {
+    background-color: rgb(242, 242, 242);
+    height: 1350px;
+}
+.heading5 {
+    font-size: 48px;
+}
+.img5 {
+    height: 90vh;
+}
+.button5 {
+    background-color: rgb(62, 62, 247);
+    color: white;
+    border-radius: 30px;
+    width: 18%;
+    font-size: 19px;
+    height: 55px;
+    border: none;
+}
+.row6 {
+    background-color: rgb(40, 39, 39);
+    height: 620px;
+}
+.footer{
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    color: white;
+    padding: 50px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.onerow{
+    display: inline-block;
+    width: 200px;
+}
+.stylistul{
+    display: inline-block;
+    list-style-type: none;
+}
+.stylistul2{
+    margin: 20px;
+}
+.color{
+    color: rgb(78, 78, 248);
+}
+.social-icons{
+    display: block;
+    padding: 0px 20px;
+    width: 500px;
+}
+.stylistu{
+    display: inline-block;
+    list-style-type: none;
+}
+.last1{
+    background-color: rgb(27, 27, 27);
+    display: block;
+}
+.lastbox{
+    width: 1250px;
+    padding: 10px;
+    margin: 0px auto;
+    display: block;   
+    background-color:  rgb(27, 27, 27);
+    color: white;
+    border-top: 1px solid rgb(80, 80, 243);
+}
+.signup{
+    background-color: rgb(99, 99, 235);
+    display: block;
+    border-radius: 40px;
+    padding: 10px 10px;
+    color: white;
+    float: right;
+    margin-top: 20px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.iconma{
+    font-size: 30px;
+    padding-top: 13px;
+}
+.loholabelbot{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    font-size: 30px;
+}
+.iconx{
+    margin: 30px 15px 0px;
+    font-size: 40px;
+}
+
